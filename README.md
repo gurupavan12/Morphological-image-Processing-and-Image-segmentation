@@ -5,7 +5,3 @@ Here, an image shown below namely Noisy image, is taken and morphological image 
 
 ![alt text](proj5.gif "Noisy image")
 
-## Median Filtering and Image Segmentation
-Here, an image is taken namely the wheel-pepperNoise image and the task was to remove all the noise and segment the four distinct regions. 
-
-![alt text](wheelpepper.gif "wheel-pepperNoise image")
